@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 25 Feb 2024 17:40:38 at https://10web-site.ai/17/sincere-minnow/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://10web-site.ai/17/sincere-minnow/ -O1 "C:\Users\someone\Desktop\Wheel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:41:06	Error: 	"Bad Request" (400) at link https://metrics.10web-site.ai/gtm.js?id= (from https://10web-site.ai/17/sincere-minnow/)
+17:41:15	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/url/ (from https://10web-site.ai/17/sincere-minnow/)
+17:41:23	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels/ (from https://10web-site.ai/17/sincere-minnow/)
+17:41:26	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/?add-to-cart=388103 (from https://10web-site.ai/17/sincere-minnow/)
+17:41:32	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/sale/url/ (from https://10web-site.ai/17/sincere-minnow/sale/)
+17:41:32	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/product-tag/shop/feed/ (from https://10web-site.ai/17/sincere-minnow/product-tag/shop/)
+17:41:32	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product-tag/shop/url/ (from https://10web-site.ai/17/sincere-minnow/product-tag/shop/)
+17:41:32	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/product-category/forged-wheels/feed/ (from https://10web-site.ai/17/sincere-minnow/product-category/forged-wheels/)
+17:41:32	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product-category/forged-wheels/url/ (from https://10web-site.ai/17/sincere-minnow/product-category/forged-wheels/)
+17:41:32	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels-3/url/ (from https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels-3/)
+17:41:32	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels-3/?add-to-cart=388103 (from https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels-3/)
+17:41:32	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product-category/alloy-wheels/feed/ (from https://10web-site.ai/17/sincere-minnow/product-category/alloy-wheels/)
+17:41:32	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product-category/alloy-wheels/url/ (from https://10web-site.ai/17/sincere-minnow/product-category/alloy-wheels/)
+17:41:32	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels-2/url/ (from https://10web-site.ai/17/sincere-minnow/product/custom-car-wheels-2/)
+17:41:33	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product-category/custom-finishes/feed/ (from https://10web-site.ai/17/sincere-minnow/product-category/custom-finishes/)
+17:41:33	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/product-category/custom-finishes/url/ (from https://10web-site.ai/17/sincere-minnow/product-category/custom-finishes/)
+17:41:33	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/contact/url/ (from https://10web-site.ai/17/sincere-minnow/contact/)
+17:41:33	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/my-account/url/ (from https://10web-site.ai/17/sincere-minnow/my-account/)
+17:41:33	Error: 	"Not Found" (404) at link https://10web-site.ai/17/sincere-minnow/my-account/lost-password/ (from https://10web-site.ai/17/sincere-minnow/my-account/)
+17:41:33	Error: 	"Too Many Requests" (429) at link https://10web-site.ai/17/sincere-minnow/shop/url/ (from https://10web-site.ai/17/sincere-minnow/shop/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 180 links scanned, 159 files written (8355588 bytes overall) [2159601 bytes received at 39265 bytes/sec], 7992533 bytes transferred using HTTP compression in 156 files, ratio 18%, 27.2 requests per connection
+(20 errors, 0 warnings, 0 messages)
